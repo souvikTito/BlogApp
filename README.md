@@ -1,10 +1,8 @@
-# BlogApp
-
 
 ```markdown
-# Blog App
+# Blog2 Demo
 
-Blog App is a simple blogging application developed with Spring Boot.
+Blog2 Demo is a simple blogging application developed with Spring Boot.
 
 ## Description
 
@@ -75,7 +73,8 @@ GET /api/posts
 
 ## Authors
 
-- Souvik
+- Your Name
+- Additional team members if any
 
 ## License
 
@@ -84,6 +83,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Mention any acknowledgments or resources you found helpful during the project's development.
+
 
 
 ```markdown
